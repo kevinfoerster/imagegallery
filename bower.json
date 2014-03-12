@@ -1,0 +1,21 @@
+{
+  "name": "imagegallery",
+  "version": "0.0.1",
+  "authors": [
+    "Kevin Förster <kevin.foerster@gmail.com>"
+  ],
+  "description": "imagegallery test with bower",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "flexslider": "*"
+  }
+}
